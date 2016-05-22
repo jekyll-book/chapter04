@@ -33,3 +33,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+exclude: ["Gemfile", "Gemfile.lock", "Rakefile", "README.md", "LICENSE"]
